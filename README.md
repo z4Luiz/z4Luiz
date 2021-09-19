@@ -5,3 +5,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4Luiz&hide=html,css,javascript&layout=compact&theme=great-gatsby" alt="My cool logo"/>
 
 <h1>Linguagens:</h1>
+<p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a> </p>
